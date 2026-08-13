@@ -1,10 +1,5 @@
 # 🎵 EmoJams – Music Playlist Generator Based on Your Emojis
 
-## Software Engineering – Practical 2
-
-**Course:** Lab: Software Engineering
-**Course Code:** 23CT1704
-**Practical:** 2
 **Project:** EmoJams – Music Playlist Generator Based on Your Emojis
 
 ## 📌 Project Overview
