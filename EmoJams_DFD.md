@@ -70,22 +70,6 @@ The main system represented in Level 0 is decomposed into smaller processes to s
 | Open-ended Rectangle / Data Store | Data Store      |
 | Arrow                             | Data Flow       |
 
-## Level 0 DFD – Context Diagram
-
-The **Level 0 DFD** represents the EmoJams system at a high level.
-
-It shows how the external user interacts with the complete EmoJams system through different inputs and outputs.
-
-### 📸 Level 0 DFD Screenshot
-
-**ADD YOUR LEVEL 0 DFD SCREENSHOT HERE**
-
-> Replace the line above with your image after uploading it to the GitHub repository.
-
-For example:
-![EmoJams Level 0 DFD](./Level-0-DFD/level-0-dfd.png)
-
-
 ### Main Components
 
 **External Entity:**
@@ -113,7 +97,6 @@ For example:
 ### Level 0 Data Flow
 
 The general flow of information can be represented as:
-### Level 0 DFD
 
 ![EmoJams Level 0 DFD](./level0_dfd.png)
 
@@ -122,13 +105,10 @@ The Level 0 diagram provides an overall understanding of the interaction between
 ## Level 1 DFD
 
 The **Level 1 DFD** decomposes the main EmoJams system into multiple processes.
-### Level 1 DFD
 
 ![EmoJams Level 1 DFD](./level1_dfd.png)
 
 It provides a detailed view of how information is processed inside the system.
-
-
 
 ### Main Processes
 
