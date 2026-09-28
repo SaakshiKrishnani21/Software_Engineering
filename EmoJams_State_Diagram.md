@@ -31,7 +31,7 @@ End – The playlist generation process is completed.
 
 State Diagram
 
-![EmoJams State Diagram](emojams_sate_dig.png)
+![EmoJams State Diagram](emojams_state_dig.png)
 
 State Transitions
 
